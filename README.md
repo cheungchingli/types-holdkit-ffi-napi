@@ -1,0 +1,2 @@
+# @types/holdkit-ffi-napi
+ 
